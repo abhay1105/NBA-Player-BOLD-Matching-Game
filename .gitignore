@@ -23,14 +23,11 @@
 hs_err_pid*
 
 
+*.xlsx
 *.txt
-*.xl*
 *.mp4
-*.jpg
-*.png
-*.jfif
-*.csv
-/src/resources/
+
+
 /out/
 *.iml
 /.idea/
